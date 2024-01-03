@@ -29,7 +29,7 @@ Este projeto, `main_script.py`, é uma ferramenta de análise e teste de rede e 
 Clone o repositório e instale as dependências necessárias.
 
 ```bash
-git clone [CyberSentinel-Toolkit](https://github.com/RonierisonMaciel/CyberSentinel-Toolkit.git)
+git clone https://github.com/RonierisonMaciel/CyberSentinel-Toolkit.git
 cd CyberSentinel-Toolkit
 pip install -r requirements.txt
 ```
