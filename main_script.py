@@ -47,7 +47,6 @@ def select_file_from_folder(folder):
 
 def main_menu():
     while True:
-        # Cria um cabeçalho com arte ASCII
         header = pyfiglet.figlet_format("Cyber ToolKit")
         print(header)
 

@@ -1,5 +1,3 @@
-# analyze_sql_injection.py
-
 from subprocess import Popen, PIPE
 from utils import save_results
 

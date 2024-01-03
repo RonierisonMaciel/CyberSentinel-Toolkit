@@ -1,5 +1,3 @@
-# port_test_utils.py
-
 import socket
 import json
 from datetime import datetime

@@ -1,5 +1,3 @@
-# utils.py
-
 import json
 import os
 import shutil

@@ -4,6 +4,12 @@
 
 Este projeto, `main_script.py`, é uma ferramenta de análise e teste de rede e segurança cibernética. Ele permite aos usuários executar uma variedade de operações, como captura de consultas DNS, varredura de portas, análise de injeção SQL, teste de Cross-Site Scripting (XSS), ataques de força bruta, leitura de arquivos pcap, simulação de ataques de rede, entre outros.
 
+## Interface do Usuário
+
+![Interface do CyberSentinel Toolkit](image.png)
+
+*A interface do usuário do CyberSentinel Toolkit, mostrando o menu principal.*
+
 ## Funcionalidades
 
 - **Captura de Consultas DNS:** Captura e analisa consultas DNS na rede.

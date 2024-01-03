@@ -1,5 +1,3 @@
-# read_ettercap.py
-
 import subprocess
 
 def run_ettercap(target_ip, gateway_ip, interface):

@@ -1,5 +1,3 @@
-# dns_utils.py
-
 from scapy.all import sniff, DNS, DNSQR, DNSRR
 from datetime import datetime
 import time
@@ -59,5 +57,3 @@ def capture_dns_queries():
             'total_queries': len(dns_queries)
         }
         save_results(data_to_save, "captura_dns", f"captura_dns_{timestamp}.json")
-
-

@@ -1,5 +1,3 @@
-# port_scan_utils.py
-
 import nmap3
 from datetime import datetime
 from utils import save_results
