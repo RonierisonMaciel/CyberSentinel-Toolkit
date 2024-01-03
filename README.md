@@ -2,7 +2,7 @@
 
 ## Descrição Geral
 
-Este projeto, `main_script.py`, é uma ferramenta de análise e teste de rede e segurança cibernética. Ele permite aos usuários executar uma variedade de operações, como captura de consultas DNS, varredura de portas, análise de injeção SQL, teste de Cross-Site Scripting (XSS), ataques de força bruta, leitura de arquivos pcap, simulação de ataques de rede, entre outros.
+Este projeto, é uma ferramenta de análise e teste de rede e segurança cibernética. Ele permite aos usuários executar uma variedade de operações, como captura de consultas DNS, varredura de portas, análise de injeção SQL, teste de Cross-Site Scripting (XSS), ataques de força bruta, leitura de arquivos pcap, simulação de ataques de rede, entre outros.
 
 ## Interface do Usuário
 
@@ -27,8 +27,8 @@ Este projeto, `main_script.py`, é uma ferramenta de análise e teste de rede e 
 ## Requisitos
 
 - Python 3.x
-- Bibliotecas Python: `warnings`, `os`, `netifaces`, `pyfiglet`, `scapy`.
-- Ferramentas: `tcpdump`, `Hydra`, `Ettercap`, `Metasploit`.
+- Bibliotecas Python: `netifaces`, `scapy` entre outras.
+- Ferramentas: `Hydra`, `Ettercap`, `Metasploit`.
 
 ## Instalação
 
@@ -36,7 +36,13 @@ Clone o repositório e instale as dependências necessárias.
 
 ```bash
 git clone https://github.com/RonierisonMaciel/CyberSentinel-Toolkit.git
+```
+
+```bash
 cd CyberSentinel-Toolkit
+```
+
+```bash
 pip install -r requirements.txt
 ```
 
