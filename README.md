@@ -70,4 +70,4 @@ Este projeto está sob a licença [Inserir Licença Aqui].
 
 ## Autor
 
-Roni - Mestre em Ciência da Computação, pesquisador, professor e desenvolvedor de software com interesse em Data Science e Machine Learning.
+Roni - Mestre em Ciência da Computação, pesquisador, professor e desenvolvedor de software.
