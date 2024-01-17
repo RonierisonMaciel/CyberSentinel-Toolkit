@@ -64,10 +64,6 @@ Este software é destinado a fins educacionais e de teste em ambientes controlad
 
 Contribuições para o projeto são bem-vindas. Por favor, siga as diretrizes de contribuição no repositório.
 
-## Licença
-
-Este projeto está sob a licença [Inserir Licença Aqui].
-
 ## Autor
 
 Roni - Mestre em Ciência da Computação, pesquisador, professor e desenvolvedor de software.
